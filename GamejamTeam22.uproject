@@ -10,16 +10,6 @@
 			"TargetAllowList": [
 				"Editor"
 			]
-		},
-		{
-			"Name": "ElectronicNodes",
-			"Enabled": true,
-			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/5cb2a394d0c04e73891762be4cbd7216"
-		},
-		{
-			"Name": "TodoLogging",
-			"Enabled": true,
-			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/7a92da877bc742929fa9c52972cb05ac"
 		}
 	]
 }
